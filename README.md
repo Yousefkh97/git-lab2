@@ -1,0 +1,1 @@
+This is a repository with two branches: master and greeting. the greeting.txt file contains my favorite greeting. the branch greeting added the greeting to the file and at the end we will merge the greeting branch with the master branch. 

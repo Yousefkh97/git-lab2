@@ -1,0 +1,7 @@
+What is the output of "git log --oneline --graph --all" command?
+
+The command shows the commit logs for all the existing branches.
+The output of the command shows that there are two commits one for the master branch and one for the greeting branch that still not pushed.
+The text in the parenthesis indicates the branches and the HEAD pointer indicates the working branch, in our case it is the naster.
+The command shows that the master branch is in the same point of the remote branch (origin/master) but the greeting branch isn't in
+the same point of the remote branch because we didn't push our commit.
